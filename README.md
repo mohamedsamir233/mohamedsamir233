@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samir</h1>
 <h3 align="center">A passionate with Data Science and ML</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohamedsamir233?tab=repositories](https://github.com/mohamedsamir233?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mohamedsamir233?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
